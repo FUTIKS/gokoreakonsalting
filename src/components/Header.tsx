@@ -80,7 +80,7 @@ const Header = ({
             onClick={() => handleNavLinkClick(onHomeClick)}
           >
             <img
-              src="/lovable-uploads/24db456f-da99-445e-b0ec-7647b18b86de.png"
+              src="/gokorealogo/logo.png"
               alt="Go Korea"
               className="h-10 w-10 rounded-full object-cover"
             />
