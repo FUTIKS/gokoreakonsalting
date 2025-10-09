@@ -404,7 +404,7 @@ const BlogSection = () => {
         .modal-content::-webkit-scrollbar-thumb:hover {
           background: rgba(59, 130, 246, 0.7);
         }
-      `}</style>
+      `}</style> 
     </div>
   );
 };
